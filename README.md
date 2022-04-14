@@ -1,18 +1,11 @@
-### Hi there 👋
+### K-water AILab GitHub에 오신 것을 환영합니다. 👋
 
-I'm Frederik Kratzert, Researcher @ Google working in the Flood Forecasting Team. This here is my private GitHub account, were I maintain my open source projects and publish code related to any kind of research articles.
+이곳은 K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니다. 앞으로 물관리 전분야에 대한 다양한 코드를 공유할 예정입니다. 많은 관심부탁드립니다.
 
 ## :nerd_face: Research :thinking:
+1. 
+Most of my research is dedicated towards solving applications in environmental sciences (mainly hydrology) with machine learning
 
-Most of my research is dedicated towards solving applications in environmental sciences (mainly hydrology) with machine learning.
-
-## Links
-- Twitter: [@fkratzert](https://twitter.com/fkratzert)
-- GScholar: [Frederik Kratzert](https://scholar.google.com/citations?user=iDLXy_EAAAAJ&hl=de)
-- Research Blog: [neuralhydrology.github.io](https://neuralhydrology.github.io/)
-- Personal Blog: [kratzert.github.io](https://kratzert.github.io)
-
-**kratzert/kratzert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
