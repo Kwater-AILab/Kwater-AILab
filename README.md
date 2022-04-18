@@ -7,9 +7,10 @@
 2. 🌱 댐안전관리 플랫폼 개발을 위한 인공지능 알고리즘 선정평가 연구 (In progress)
 3. 👯 AI기반 위성영상을 활용한 강우자료 신뢰도 개선 (In progress)
 4. 🤔 AI기반 녹조 광역 모니터링 기술 개발 (https://github.com/Kwater-AILab/algae_monitoring)
-5. 💬 정수장 유입 수질(망간 등) 예측 알고리즘 개발  (In progress)
-6. 📫 막여과공정 AI운용모델 개발 (In progress)
-7. ⚡ 물수급 분석 생활용수 수요량 예측 알고리즘 개발 (In progress)
+  - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/algae_monitoring/main?filepath=sample.ipynb) [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/algae-web/main/Algae_monitoring_streamlit.py)
+6. 💬 정수장 유입 수질(망간 등) 예측 알고리즘 개발  (In progress)
+7. 📫 막여과공정 AI운용모델 개발 (In progress)
+8. ⚡ 물수급 분석 생활용수 수요량 예측 알고리즘 개발 (In progress)
 
 
 문의사항: K-water AILab에 문의사항이 있으시면 언제든지 아래의 이메일을 이용해주세요.
