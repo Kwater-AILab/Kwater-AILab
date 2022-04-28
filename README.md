@@ -7,7 +7,7 @@
 
 2. 🌱 댐안전관리 플랫폼 개발을 위한 인공지능 알고리즘 선정평가 연구 (In progress)
 
-3. 👯 AI기반 위성영상을 활용한 강우자료 신뢰도 개선 (In progress)
+3. 👯 AI기반 위성영상을 활용한 강우자료 신뢰도 개선 (In progress, https://github.com/Kwater-AILab/rainfall_distribution)
 
 4. 🤔 AI기반 녹조 광역 모니터링 기술 개발 (https://github.com/Kwater-AILab/algae_monitoring)
      - Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/algae_monitoring/main?filepath=sample.ipynb)              Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/himount/algae-web/main/Algae_monitoring_streamlit.py)
