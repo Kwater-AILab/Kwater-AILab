@@ -19,6 +19,10 @@
 7. ⚡ 물수급 분석 생활용수 수요량 예측 알고리즘 개발 (In progress)
 
 
+## :nerd_face: Conference참여 :thinking:
+1. 🔭 2022년 한국수자원학회 학술발표회 ('22.5.19~20), 온라인 저장소, 클라우드기반 jupyterHub와 모델 APIs를 활용한 수자원모델링의 재현성 개선 (최영돈)
+  - 발표자료:         , Launch Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kwater-AILab/2022_KWRA_Conference_Reproducibility/main?filepath=SummaModel_ReynoldsAspennStand_StomatalResistance_Figure7.ipynb)
+
 문의사항: K-water AILab에 문의사항이 있으시면 언제든지 아래의 이메일을 이용해주세요.
 - K-water 연구소 AILab 김성훈 센터장 (sunghoonkim@kwater.or.kr)
 - K-water 연구소 AILab 최영돈 책임연구원 (choiyd1115@kwater.or.kr)
