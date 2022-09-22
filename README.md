@@ -16,8 +16,8 @@
 
 6. 📫 막여과공정 AI운용모델 개발 (In progress)
 
-7. ⚡ 물수급 분석 생활용수 수요량 예측 알고리즘 개발 (In progress)
-
+7. ⚡ AI를 활용한 생공용수(국가물관리기본계획, 목표년도 2035년) 수요패턴 예측 알고리즘 개발 (https://github.com/Kwater-AILab/water_demand_forecast, In progress)
+     - Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kwater-AILab/water_forecast.git/HEAD)
 
 
 
