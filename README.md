@@ -19,6 +19,10 @@
 7. ⚡ AI를 활용한 생공용수(국가물관리기본계획, 목표년도 2035년) 수요패턴 예측 알고리즘 개발 (https://github.com/Kwater-AILab/water_demand_forecast, In progress)
      - Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kwater-AILab/water_forecast.git/HEAD)
 
+8. 🧊 동파 예측
+     지방상수도 함내 계량기 동파 예측 <br>
+     - Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://himount-freeze-burst-freeze-meter-streamlit-qx53qw.streamlit.app/)
+
 
 
 ## :nerd_face: Conference 발표 :thinking:
