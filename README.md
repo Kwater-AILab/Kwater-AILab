@@ -23,6 +23,9 @@
      지방상수도 함내 계량기 동파 예측 <br>
      - Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://himount-freeze-burst-freeze-meter-streamlit-qx53qw.streamlit.app/)
 
+9. 🌞 기상청 API를 이용한 LDAPS 파일 다운로드 및 변환 프로그램
+     - [파일자료](https://github.com/Kwater-AILab/Distributed-rainfall-runoff-model-based-on-LDAPS/blob/3025ac5fe37eda0b119ab35534bac9093216c6bb/README.md) 
+
 <br>
 <br>
 
@@ -31,19 +34,23 @@
 
    - (주제) 온라인 저장소, 클라우드기반 jupyterHub와 모델 APIs를 활용한 수자원모델링의 재현성 개선 (최영돈) [발표자료](https://github.com/Kwater-AILab/2022_KWRA_Conference_Reproducibility/blob/main/20220520_%EC%88%98%EC%9E%90%EC%9B%90%ED%95%99%ED%9A%8C_%EB%B0%9C%ED%91%9C(%EC%B5%9C%EC%98%81%EB%8F%88).pdf)
    - Launch Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kwater-AILab/2022_KWRA_Conference_Reproducibility/main?filepath=SummaModel_ReynoldsAspennStand_StomatalResistance_Figure7.ipynb) 
+<br>
 
 2. 제 5회 한중일 Water Science Research Forum <br>
-The 5rth China-Japan-South Korea Water Science Research Forum (2022.11) <br>
-"Hybrid machine learning and remote-sensing data applications in water resources management" (김성훈)  [발표자료](https://github.com/Kwater-AILab/Conference/blob/f8cf07178b6520096d9b6054d9ea59bfac9bd74e/(1)Presentation_K-water_AILAB(Science_Forum).pdf)
+     - The 5rth China-Japan-South Korea Water Science Research Forum (2022.11) 
+     - "Hybrid machine learning and remote-sensing data applications in water resources management" (김성훈)  [발표자료](https://github.com/Kwater-AILab/Conference/blob/f8cf07178b6520096d9b6054d9ea59bfac9bd74e/(1)Presentation_K-water_AILAB(Science_Forum).pdf)
+<br>
 
 3. UKC 2022 Science and Technology in the Wake of the Pandemic(2022.08) <br>
-"K-water's Big Challenges for Digital Transformation in Smart Water Management" (김성훈)  [발표자료](https://github.com/Kwater-AILab/Conference/blob/f8cf07178b6520096d9b6054d9ea59bfac9bd74e/(2)UKC-Session(K-water_AILAB).pdf)
+     - "K-water's Big Challenges for Digital Transformation in Smart Water Management" (김성훈)  [발표자료](https://github.com/Kwater-   -  AILab/Conference/blob/f8cf07178b6520096d9b6054d9ea59bfac9bd74e/(2)UKC-Session(K-water_AILAB).pdf)
+<br>
 
 4. 대한상하수도학회 학술발표대회 <br>
-"상수도 스마트 기술 적용사례", 대한상하수도학회 학술발표대회(2022.11) (정희진)  [발표자료](https://github.com/Kwater-AILab/Conference/blob/f489066d0268e53c50e1a062b299513df914be8d/(3)%20K-water%20%EC%83%81%EC%88%98%EB%8F%84%20%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EA%B8%B0%EC%88%A0%EA%B0%9C%EB%B0%9C.pdf)
+     - "상수도 스마트 기술 적용사례", 대한상하수도학회 학술발표대회(2022.11) (정희진)  [발표자료](https://github.com/Kwater-AILab/Conference/blob/f489066d0268e53c50e1a062b299513df914be8d/(3)%20K-water%20%EC%83%81%EC%88%98%EB%8F%84%20%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EA%B8%B0%EC%88%A0%EA%B0%9C%EB%B0%9C.pdf)
+<br>
 
 5. 수자원학회 발표<br>
-"데이터기반 홍수 도달시간 및 수위예측 시물레이터 개발" (2022.05) (이호현) [발표자료](https://github.com/Kwater-AILab/Conference/blob/f489066d0268e53c50e1a062b299513df914be8d/(4)%20220520_%EC%88%98%EC%9E%90%EC%9B%90%ED%95%99%ED%9A%8C.pdf)
+     - "데이터기반 홍수 도달시간 및 수위예측 시물레이터 개발" (2022.05) (이호현) [발표자료](https://github.com/Kwater-AILab/Conference/blob/f489066d0268e53c50e1a062b299513df914be8d/(4)%20220520_%EC%88%98%EC%9E%90%EC%9B%90%ED%95%99%ED%9A%8C.pdf)
 
 <br>
 <br>
