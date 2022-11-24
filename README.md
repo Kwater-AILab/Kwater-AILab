@@ -42,7 +42,7 @@
 <br>
 
 3. UKC 2022 Science and Technology in the Wake of the Pandemic(2022.08) <br>
-     - "K-water's Big Challenges for Digital Transformation in Smart Water Management" (김성훈)  [발표자료](https://github.com/Kwater-   -  AILab/Conference/blob/f8cf07178b6520096d9b6054d9ea59bfac9bd74e/(2)UKC-Session(K-water_AILAB).pdf)
+     - "K-water's Big Challenges for Digital Transformation in Smart Water Management" (김성훈)  [발표자료](https://github.com/Kwater-AILab/Conference/blob/1785a9555d34d4b9011dda1b0e249f8a4aa42177/(2)UKC-Session(K-water_AILAB).pdf)
 <br>
 
 4. 대한상하수도학회 학술발표대회 <br>
