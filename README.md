@@ -34,3 +34,8 @@
 문의사항: K-water AILab에 문의사항이 있으시면 언제든지 아래의 이메일을 이용해주세요.
 - K-water 연구소 AILab 김성훈 센터장 (sunghoonkim@kwater.or.kr)
 - K-water 연구소 AILab 최영돈 책임연구원 (choiyd1115@kwater.or.kr)
+
+
+
+## 😃 Seminars 😀
+1. 2022년 신규 연구원 Landing Seminar (주경원 선임연구원) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/9e4b83addb5c5518420726ee189017316fd073d5/220728_%EC%84%B8%EB%AF%B8%EB%82%98_%EC%A3%BC%EA%B2%BD%EC%9B%90_%EB%B0%B0%ED%8F%AC.pdf)
