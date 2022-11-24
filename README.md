@@ -55,7 +55,7 @@ The 5rth China-Japan-South Korea Water Science Research Forum (2022.11) <br>
 <br>
 
 ## 😃 Journal 😀
-1. "물 분야 디지털 기술의 현재와 미래", 물정책경제지(2022.06) p.80~90 (김성훈) [발표자료](https://github.com/Kwater-AILab/Journal/blob/9e0da3b4e537309c4d9480380e345adb191a1e22/%EC%A0%80%EB%84%90%20%EB%AC%BC%EC%A0%95%EC%B1%85%EA%B2%BD%EC%A0%9C%2037%ED%98%B8.pdf)
+1. "물 분야 디지털 기술의 현재와 미래", 물정책경제지(2022.06) p.80~90 (김성훈) [발표자료](https://github.com/Kwater-AILab/Journal/blob/1783edc4e7db9bc13c5b5d4853ffccf5ed9689a1/%EC%A0%80%EB%84%90%20%EB%AC%BC%EC%A0%95%EC%B1%85%EA%B2%BD%EC%A0%9C%2037%ED%98%B8.pdf)
 
 
 <br>
