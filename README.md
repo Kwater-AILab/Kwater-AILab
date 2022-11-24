@@ -39,6 +39,9 @@ The 5rth China-Japan-South Korea Water Science Research Forum (2022.11) <br>
 3. UKC 2022 Science and Technology in the Wake of the Pandemic(2022.08) <br>
 "K-water's Big Challenges for Digital Transformation in Smart Water Management" (김성훈)  [발표자료](https://github.com/Kwater-AILab/Conference/blob/f8cf07178b6520096d9b6054d9ea59bfac9bd74e/(2)UKC-Session(K-water_AILAB).pdf)
 
+4. 대한상하수도학회 학술발표대회 <br>
+"상수도 스마트 기술 적용사례", 대한상하수도학회 학술발표대회(2022.11) (정희진)  [발표자료](https://github.com/Kwater-AILab/Conference/blob/99da921d07a9dd12a85b7db5fd46fd2843fedf23/K-water%20%EC%83%81%EC%88%98%EB%8F%84%20%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EA%B8%B0%EC%88%A0%EA%B0%9C%EB%B0%9C.pdf)
+
 <br>
 <br>
 
