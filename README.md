@@ -23,27 +23,37 @@
      지방상수도 함내 계량기 동파 예측 <br>
      - Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://himount-freeze-burst-freeze-meter-streamlit-qx53qw.streamlit.app/)
 
+<br>
+<br>
 
-
-## :nerd_face: Conference 발표 :thinking:
+## :nerd_face: Conference / Forum 발표 :thinking:
 1. 🔭 2022년 한국수자원학회 학술발표회 ('22.5.19~20)
 
    - (주제) 온라인 저장소, 클라우드기반 jupyterHub와 모델 APIs를 활용한 수자원모델링의 재현성 개선 (최영돈) [발표자료](https://github.com/Kwater-AILab/2022_KWRA_Conference_Reproducibility/blob/main/20220520_%EC%88%98%EC%9E%90%EC%9B%90%ED%95%99%ED%9A%8C_%EB%B0%9C%ED%91%9C(%EC%B5%9C%EC%98%81%EB%8F%88).pdf)
-   - Launch Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kwater-AILab/2022_KWRA_Conference_Reproducibility/main?filepath=SummaModel_ReynoldsAspennStand_StomatalResistance_Figure7.ipynb)
-   - 
+   - Launch Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kwater-AILab/2022_KWRA_Conference_Reproducibility/main?filepath=SummaModel_ReynoldsAspennStand_StomatalResistance_Figure7.ipynb) 
 
+2. 제 5회 한중일 Water Science Research Forum
+The 5rth China-Japan-South Korea Water Science Research Forum (2022.11) <br>
+"Hybrid machine learning and remote-sensing data applications in water resources management" (김성훈)  [발표자료](https://github.com/Kwater-AILab/Conference/blob/f8cf07178b6520096d9b6054d9ea59bfac9bd74e/(1)Presentation_K-water_AILAB(Science_Forum).pdf)
 
+3. UKC 2022 Science and Technology in the Wake of the Pandemic(2022.08) 
+"K-water's Big Challenges for Digital Transformation in Smart Water Management" (김성훈)  [발표자료](https://github.com/Kwater-AILab/Conference/blob/f8cf07178b6520096d9b6054d9ea59bfac9bd74e/(2)UKC-Session(K-water_AILAB).pdf)
+
+<br>
+<br>
 
 ## 😃 Seminars 😀
-1. 2022년 신규 연구원 Landing Seminar (주경원 선임연구원) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/9e4b83addb5c5518420726ee189017316fd073d5/220728_%EC%84%B8%EB%AF%B8%EB%82%98_%EC%A3%BC%EA%B2%BD%EC%9B%90_%EB%B0%B0%ED%8F%AC.pdf)
+1. 2022년 신규 연구원 Landing Seminar (주경원) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/9e4b83addb5c5518420726ee189017316fd073d5/220728_%EC%84%B8%EB%AF%B8%EB%82%98_%EC%A3%BC%EA%B2%BD%EC%9B%90_%EB%B0%B0%ED%8F%AC.pdf)
 
-
+<br>
+<br>
 
 ## 😃 Journal 😀
-1. "물 분야 디지털 기술의 현재와 미래", 물정책경제지(2022.06) p.80~90 [발표자료](https://github.com/Kwater-AILab/Journal/blob/9e0da3b4e537309c4d9480380e345adb191a1e22/%EC%A0%80%EB%84%90%20%EB%AC%BC%EC%A0%95%EC%B1%85%EA%B2%BD%EC%A0%9C%2037%ED%98%B8.pdf)
+1. "물 분야 디지털 기술의 현재와 미래", 물정책경제지(2022.06) p.80~90 (김성훈) [발표자료](https://github.com/Kwater-AILab/Journal/blob/9e0da3b4e537309c4d9480380e345adb191a1e22/%EC%A0%80%EB%84%90%20%EB%AC%BC%EC%A0%95%EC%B1%85%EA%B2%BD%EC%A0%9C%2037%ED%98%B8.pdf)
 
 
-
+<br>
+<br>
 
 
 ----------------
