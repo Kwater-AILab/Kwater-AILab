@@ -64,9 +64,16 @@
 ## 😃 Journal 😀
 1. "물 분야 디지털 기술의 현재와 미래", 물정책경제지(2022.06) p.80~90 (김성훈) [발표자료](https://github.com/Kwater-AILab/Journal/blob/1783edc4e7db9bc13c5b5d4853ffccf5ed9689a1/%EC%A0%80%EB%84%90%20%EB%AC%BC%EC%A0%95%EC%B1%85%EA%B2%BD%EC%A0%9C%2037%ED%98%B8.pdf)
 
+<br>
+<br>
 
-<br>
-<br>
+## 😃 AI News Letter 😀
+1. AI 뉴스레터 창간호 <br>
+     - 뉴스형태 : [뉴스](https://github.com/Kwater-AILab/AI_NewsLetter/blob/2da634e8f8a24da0d6087d391df4177642e2b345/AI_Newsletter_%EC%B0%BD%EA%B0%84%ED%98%B8.pdf)
+     - 카드형태 : [카드](https://github.com/Kwater-AILab/AI_NewsLetter/blob/2da634e8f8a24da0d6087d391df4177642e2b345/AI_Newsletter_%EC%B0%BD%EA%B0%84%ED%98%B8_%EC%B9%B4%EB%93%9C.pdf)
+     - Hands-On Project Colab Link
+          - Water_Quality : [링크](https://colab.research.google.com/drive/1p5cki_3KWsj1Ff52okNKWnb89Fgwt_pq?usp=sharing)
+          - Fake_News_Detection : [링크](https://colab.research.google.com/drive/19U5YHHWn-lQaA_XtF8tTiPC7UnErATLP?usp=sharing)
 
 
 ----------------
