@@ -32,11 +32,11 @@
    - (주제) 온라인 저장소, 클라우드기반 jupyterHub와 모델 APIs를 활용한 수자원모델링의 재현성 개선 (최영돈) [발표자료](https://github.com/Kwater-AILab/2022_KWRA_Conference_Reproducibility/blob/main/20220520_%EC%88%98%EC%9E%90%EC%9B%90%ED%95%99%ED%9A%8C_%EB%B0%9C%ED%91%9C(%EC%B5%9C%EC%98%81%EB%8F%88).pdf)
    - Launch Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kwater-AILab/2022_KWRA_Conference_Reproducibility/main?filepath=SummaModel_ReynoldsAspennStand_StomatalResistance_Figure7.ipynb) 
 
-2. 제 5회 한중일 Water Science Research Forum
+2. 제 5회 한중일 Water Science Research Forum <br>
 The 5rth China-Japan-South Korea Water Science Research Forum (2022.11) <br>
 "Hybrid machine learning and remote-sensing data applications in water resources management" (김성훈)  [발표자료](https://github.com/Kwater-AILab/Conference/blob/f8cf07178b6520096d9b6054d9ea59bfac9bd74e/(1)Presentation_K-water_AILAB(Science_Forum).pdf)
 
-3. UKC 2022 Science and Technology in the Wake of the Pandemic(2022.08) 
+3. UKC 2022 Science and Technology in the Wake of the Pandemic(2022.08) <br>
 "K-water's Big Challenges for Digital Transformation in Smart Water Management" (김성훈)  [발표자료](https://github.com/Kwater-AILab/Conference/blob/f8cf07178b6520096d9b6054d9ea59bfac9bd74e/(2)UKC-Session(K-water_AILAB).pdf)
 
 <br>
