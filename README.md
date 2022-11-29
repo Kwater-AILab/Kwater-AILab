@@ -26,6 +26,7 @@
 8. 🧊 동파 예측
      지방상수도 함내 계량기 동파 예측 <br>
      - Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://himount-freeze-burst-freeze-meter-streamlit-qx53qw.streamlit.app/)
+     - 분류기 테스트 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/newcave/burst_example/HEAD)
 
 9. 🌞 기상청 API를 이용한 LDAPS 파일 다운로드 및 변환 프로그램
      - [파일자료](https://github.com/Kwater-AILab/Distributed-rainfall-runoff-model-based-on-LDAPS/blob/3025ac5fe37eda0b119ab35534bac9093216c6bb/README.md) 
