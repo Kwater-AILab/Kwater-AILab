@@ -5,12 +5,12 @@
 ## :nerd_face: Research 분야 :thinking:
 1. 🔭 Digital Twin과 연계한 AI기술 개발 (In progress)
 
-2. 🌱 댐안전관리 플랫폼 개발을 위한 인공지능 알고리즘 선정평가 연구 (In progress)
+2. 🤔 AI기반 녹조 광역 모니터링 기술 개발 (https://github.com/Kwater-AILab/algae_monitoring)
+     - Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/algae_monitoring/main?filepath=sample.ipynb)              Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/himount/algae-web/main/Algae_monitoring_streamlit.py)
 
 3. 👯 AI기반 위성영상을 활용한 강우자료 신뢰도 개선 (In progress, Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/IMERG_ML.git/HEAD))
 
-4. 🤔 AI기반 녹조 광역 모니터링 기술 개발 (https://github.com/Kwater-AILab/algae_monitoring)
-     - Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/algae_monitoring/main?filepath=sample.ipynb)              Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/himount/algae-web/main/Algae_monitoring_streamlit.py)
+4. 🌱 댐안전관리 플랫폼 개발을 위한 인공지능 알고리즘 선정평가 연구 (In progress)
      
 5. 💬 정수장 유입 수질(망간 등) 예측 알고리즘 개발  (In progress)
 
