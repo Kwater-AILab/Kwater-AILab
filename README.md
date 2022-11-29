@@ -3,7 +3,10 @@
 이곳은 K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니다. 앞으로 물관리 전분야에 대한 다양한 코드를 공유할 예정입니다. 많은 관심부탁드립니다.
 
 ## :nerd_face: Research 분야 :thinking:
-1. 🔭 Digital Twin과 연계한 AI기술 개발 (In progress)
+1. 🔭 Digital Twin과 연계한 AI기술 개발 (In progress) <br>
+     [코드](https://github.com/Kwater-AILab/codes/blob/9f8373b29d27b70812561de7ce415dacf4aacddc/Copy_of_SJ_River_Surrogate_sample.ipynb), 
+     [Sample Data](https://drive.google.com/file/d/1SPGti0i-XDU7C0fgKlhip6C3DvaCI7HY/view?usp=sharing) <br>
+     
 
 2. 🤔 AI기반 녹조 광역 모니터링 기술 개발 (https://github.com/Kwater-AILab/algae_monitoring)
      - Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/algae_monitoring/main?filepath=sample.ipynb)              Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/himount/algae-web/main/Algae_monitoring_streamlit.py)
@@ -57,6 +60,13 @@
 
 ## 😃 Seminars 😀
 1. 2022년 신규 연구원 Landing Seminar (주경원) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/9e4b83addb5c5518420726ee189017316fd073d5/220728_%EC%84%B8%EB%AF%B8%EB%82%98_%EC%A3%BC%EA%B2%BD%EC%9B%90_%EB%B0%B0%ED%8F%AC.pdf)
+<br>
+
+2. AI연구센터 제 1회 AI 경진대회의 이해 (김성훈)  [발표자료](https://github.com/Kwater-AILab/Seminars/blob/7f7cb64d588c1d691615a8b5788d5ac25f95fd8e/AI%EC%97%B0%EA%B5%AC%EC%84%BC%ED%84%B0_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C(1%ED%9A%8C)%EC%9D%98%20%EC%9D%B4%ED%95%B4.pdf)
+<br>
+
+3. 데이터와 수치모델링 기반의 대체모델 적용 사례 (김성훈) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/7f7cb64d588c1d691615a8b5788d5ac25f95fd8e/AI%EC%97%B0%EA%B5%AC%EC%84%BC%ED%84%B0_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80%20%EC%88%98%EC%B9%98%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EB%8C%80%EC%B2%B4%EB%AA%A8%EB%8D%B8%20%EC%A0%81%EC%9A%A9%20%EC%82%AC%EB%A1%80.pdf)
+<br>
 
 <br>
 <br>
