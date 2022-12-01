@@ -3,33 +3,35 @@
 이곳은 K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니다. 앞으로 물관리 전분야에 대한 다양한 코드를 공유할 예정입니다. 많은 관심부탁드립니다.
 
 ## :nerd_face: Research 분야 :thinking:
+1. 🔭 Digital Twin과 연계한 AI기술 개발 (In progress) <br>
+     코드링크 : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T_JCD-fF3jRJOBeKxinDjeNxsoIyKXES?usp=sharing) <br>
+     Sample Data git링크 : [Sample Data_git](https://github.com/Kwater-AILab/codes/blob/1d2e4a78c8ef6dd46c89063b9ec2a5975182c889/River_Surrogate_sample_data.csv)<br>
+     Sample Data google drive 링크 : [Sample Data_google drive](https://drive.google.com/file/d/1SPGti0i-XDU7C0fgKlhip6C3DvaCI7HY/view?usp=sharing) 
 
-1. 🤔 AI기반 녹조 광역 모니터링 기술 개발 (https://github.com/Kwater-AILab/algae_monitoring)
+
+2. 🤔 AI기반 녹조 광역 모니터링 기술 개발 (https://github.com/Kwater-AILab/algae_monitoring)
      - Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/algae_monitoring/main?filepath=sample.ipynb)              Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/himount/algae-web/main/Algae_monitoring_streamlit.py)
 
-2. 👯 AI기반 위성영상을 활용한 강우자료 신뢰도 개선 (In progress, Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/IMERG_ML.git/HEAD))
+3. 👯 AI기반 위성영상을 활용한 강우자료 신뢰도 개선 (In progress, Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/IMERG_ML.git/HEAD))
 
-3. 🌱 댐안전관리 플랫폼 개발을 위한 인공지능 알고리즘 선정평가 연구 (In progress)
+4. 🌱 댐안전관리 플랫폼 개발을 위한 인공지능 알고리즘 선정평가 연구 (In progress)
      
-4. 💬 정수장 유입 수질(망간 등) 예측 알고리즘 개발  (In progress)
+5. 💬 정수장 유입 수질(망간 등) 예측 알고리즘 개발  (In progress)
 
-5. 📫 막여과공정 AI운용모델 개발 (In progress)
+6. 📫 막여과공정 AI운용모델 개발 (In progress)
 
-6. ⚡ AI를 활용한 생공용수(국가물관리기본계획, 목표년도 2035년) 수요패턴 예측 알고리즘 개발 (https://github.com/Kwater-AILab/water_demand_forecast, In progress)
+7. ⚡ AI를 활용한 생공용수(국가물관리기본계획, 목표년도 2035년) 수요패턴 예측 알고리즘 개발 (https://github.com/Kwater-AILab/water_demand_forecast, In progress)
      - Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kwater-AILab/water_forecast.git/HEAD)
 
-7. 🧊 동파 예측
+8. 🧊 동파 예측
      지방상수도 함내 계량기 동파 예측 <br>
      - Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://himount-freeze-burst-freeze-meter-streamlit-qx53qw.streamlit.app/)
      - 분류기 테스트 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/newcave/burst_example.git/HEAD)
 
-8. 🌞 기상청 API를 이용한 LDAPS 파일 다운로드 및 변환 프로그램
+9. 🌞 기상청 API를 이용한 LDAPS 파일 다운로드 및 변환 프로그램
      - [파일자료](https://github.com/Kwater-AILab/Distributed-rainfall-runoff-model-based-on-LDAPS/blob/3025ac5fe37eda0b119ab35534bac9093216c6bb/README.md) 
 
-9. 🔭 Digital Twin과 연계한 AI기술 개발 (In progress) <br>
-     코드링크 : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T_JCD-fF3jRJOBeKxinDjeNxsoIyKXES?usp=sharing) <br>
-     Sample Data git링크 : [Sample Data_git](https://github.com/Kwater-AILab/codes/blob/1d2e4a78c8ef6dd46c89063b9ec2a5975182c889/River_Surrogate_sample_data.csv)<br>
-     Sample Data google drive 링크 : [Sample Data_google drive](https://drive.google.com/file/d/1SPGti0i-XDU7C0fgKlhip6C3DvaCI7HY/view?usp=sharing) 
+
 <br>
 <br>
 
