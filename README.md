@@ -27,7 +27,7 @@
      - [파일자료](https://github.com/Kwater-AILab/Distributed-rainfall-runoff-model-based-on-LDAPS/blob/3025ac5fe37eda0b119ab35534bac9093216c6bb/README.md) 
 
 9. 🔭 Digital Twin과 연계한 AI기술 개발 (In progress) <br>
-     코드링크 : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kwater-AILab/codes/blob/main/Copy_of_SJ_River_Surrogate_sample.ipynb) <br>
+     코드링크 : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T_JCD-fF3jRJOBeKxinDjeNxsoIyKXES?usp=sharing) <br>
      Sample Data git링크 : [Sample Data_git](https://github.com/Kwater-AILab/codes/blob/1d2e4a78c8ef6dd46c89063b9ec2a5975182c889/River_Surrogate_sample_data.csv)<br>
      Sample Data google drive 링크 : [Sample Data_google drive](https://drive.google.com/file/d/1SPGti0i-XDU7C0fgKlhip6C3DvaCI7HY/view?usp=sharing) 
 <br>
