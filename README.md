@@ -8,14 +8,14 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 
 
 ## Research 분야
-1. Digital Twin과 연계한 AI기술 개발 (In progress)  
+1. AI기반 녹조 광역 모니터링 기술 개발 (https://github.com/Kwater-AILab/algae_monitoring)
+     - Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/algae_monitoring/main?filepath=sample.ipynb)              Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/himount/algae-web/main/Algae_monitoring_streamlit.py)
+
+2. Digital Twin과 연계한 AI기술 개발 (In progress)  
      코드링크 : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T_JCD-fF3jRJOBeKxinDjeNxsoIyKXES?usp=sharing) <br>
      Sample Data git링크 : [Sample Data_git](https://github.com/Kwater-AILab/codes/blob/1d2e4a78c8ef6dd46c89063b9ec2a5975182c889/River_Surrogate_sample_data.csv)<br>
      Sample Data google drive 링크 : [Sample Data_google drive](https://drive.google.com/file/d/1SPGti0i-XDU7C0fgKlhip6C3DvaCI7HY/view?usp=sharing) 
 
-
-2. AI기반 녹조 광역 모니터링 기술 개발 (https://github.com/Kwater-AILab/algae_monitoring)
-     - Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/algae_monitoring/main?filepath=sample.ipynb)              Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/himount/algae-web/main/Algae_monitoring_streamlit.py)
 
 3. AI기반 위성영상을 활용한 강우자료 신뢰도 개선 (In progress, Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/IMERG_ML.git/HEAD))
 
