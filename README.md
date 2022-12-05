@@ -38,7 +38,6 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 
 
 <br>
-<br>
 
 ## Conference / Forum 발표
 1. 2022년 한국수자원학회 학술발표회 ('22.5.19~20)
@@ -64,25 +63,22 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
      - "데이터기반 홍수 도달시간 및 수위예측 시물레이터 개발" (2022.05) [발표자료](https://github.com/Kwater-AILab/Conference/blob/f489066d0268e53c50e1a062b299513df914be8d/(4)%20220520_%EC%88%98%EC%9E%90%EC%9B%90%ED%95%99%ED%9A%8C.pdf)
 
 <br>
-<br>
 
 ## Seminars
 1. 2022년 신규 연구원 Landing Seminar (주경원) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/9e4b83addb5c5518420726ee189017316fd073d5/220728_%EC%84%B8%EB%AF%B8%EB%82%98_%EC%A3%BC%EA%B2%BD%EC%9B%90_%EB%B0%B0%ED%8F%AC.pdf)
-<br>
+
 
 2. AI연구센터 제 1회 AI 경진대회의 이해 (김성훈)  [발표자료](https://github.com/Kwater-AILab/Seminars/blob/7f7cb64d588c1d691615a8b5788d5ac25f95fd8e/AI%EC%97%B0%EA%B5%AC%EC%84%BC%ED%84%B0_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C(1%ED%9A%8C)%EC%9D%98%20%EC%9D%B4%ED%95%B4.pdf)
-<br>
+
 
 3. 데이터와 수치모델링 기반의 대체모델 적용 사례 (김성훈) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/7f7cb64d588c1d691615a8b5788d5ac25f95fd8e/AI%EC%97%B0%EA%B5%AC%EC%84%BC%ED%84%B0_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80%20%EC%88%98%EC%B9%98%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EB%8C%80%EC%B2%B4%EB%AA%A8%EB%8D%B8%20%EC%A0%81%EC%9A%A9%20%EC%82%AC%EB%A1%80.pdf)
-<br>
 
-<br>
+
 <br>
 
 ## Journal
 1. "물 분야 디지털 기술의 현재와 미래", 물정책경제지(2022.06) p.80~90 (김성훈) [발표자료](https://github.com/Kwater-AILab/Journal/blob/1783edc4e7db9bc13c5b5d4853ffccf5ed9689a1/%EC%A0%80%EB%84%90%20%EB%AC%BC%EC%A0%95%EC%B1%85%EA%B2%BD%EC%A0%9C%2037%ED%98%B8.pdf)
 
-<br>
 <br>
 
 ## AI News Letter
@@ -92,6 +88,15 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
      - Hands-On Project Colab Link
           - Water_Quality : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p5cki_3KWsj1Ff52okNKWnb89Fgwt_pq?usp=sharing)
           - Fake_News_Detection : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19U5YHHWn-lQaA_XtF8tTiPC7UnErATLP?usp=sharing)
+
+<br>
+
+
+## HomePage
+- 링크 -> [바로가기](https://kwater-ailab.github.io/Kwater_ai_lab/)  
+- QR코드  
+     <img src="https://user-images.githubusercontent.com/96035289/205552708-1049c5bf-148d-4055-9c95-a6359028156d.png" height="150px" width="150px">
+
 
 ----------------
 문의사항: K-water AILab에 문의사항이 있으시면 언제든지 아래의 이메일을 이용해주세요.
