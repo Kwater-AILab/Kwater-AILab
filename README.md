@@ -78,6 +78,10 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 3. 데이터와 수치모델링 기반의 대체모델 적용 사례 (김성훈) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/7f7cb64d588c1d691615a8b5788d5ac25f95fd8e/AI%EC%97%B0%EA%B5%AC%EC%84%BC%ED%84%B0_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80%20%EC%88%98%EC%B9%98%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EB%8C%80%EC%B2%B4%EB%AA%A8%EB%8D%B8%20%EC%A0%81%EC%9A%A9%20%EC%82%AC%EB%A1%80.pdf)
 
 
+
+4. 공공기관 ChatGPT 활용워크샵_ 지식공유 미니 세미나 (이소령) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/a6ff886738284970be79adda4849f403d18858df/%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80%20chatGPT%20%ED%99%9C%EC%9A%A9%EC%9B%8C%ED%81%AC%EC%83%B5_AAICON_%EC%A7%80%EC%8B%9D%EA%B3%B5%EC%9C%A0.pdf)
+
+
 <br>
 
 ## Journal
