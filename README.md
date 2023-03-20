@@ -8,7 +8,17 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 ![Kwater-AILab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwater-AILab&show_icons=true&theme=vue)
 
 
-## Research 분야
+## 목차
+- [Research](#research) 
+- [Conference & Forum](#conference)
+- [Seminars](#seminars)
+- [Journal](#journal)
+- [AI News Letter](#newsletter)
+- [Home Page](#homepage)
+<br>
+
+
+## Research
 1. AI기반 녹조 광역 모니터링 기술 개발 (https://github.com/Kwater-AILab/algae_monitoring)
      - Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/algae_monitoring/main?filepath=sample.ipynb)              Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/himount/algae-web/main/Algae_monitoring_streamlit.py)
 
@@ -46,7 +56,7 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 
 <br>
 
-## Conference / Forum 발표
+## Conference 
 1. 2022년 한국수자원학회 학술발표회 ('22.5.19~20)
 
    - (주제) 온라인 저장소, 클라우드기반 jupyterHub와 모델 APIs를 활용한 수자원모델링의 재현성 개선 (최영돈) [발표자료](https://github.com/Kwater-AILab/2022_KWRA_Conference_Reproducibility/blob/main/20220520_%EC%88%98%EC%9E%90%EC%9B%90%ED%95%99%ED%9A%8C_%EB%B0%9C%ED%91%9C(%EC%B5%9C%EC%98%81%EB%8F%88).pdf)
@@ -95,7 +105,7 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 
 <br>
 
-## AI News Letter
+## Newsletter
 1. AI 뉴스레터 창간호  
      - 뉴스형태 : [뉴스](https://github.com/Kwater-AILab/AI_NewsLetter/blob/2da634e8f8a24da0d6087d391df4177642e2b345/AI_Newsletter_%EC%B0%BD%EA%B0%84%ED%98%B8.pdf)
      - 카드형태 : [카드](https://github.com/Kwater-AILab/AI_NewsLetter/blob/2da634e8f8a24da0d6087d391df4177642e2b345/AI_Newsletter_%EC%B0%BD%EA%B0%84%ED%98%B8_%EC%B9%B4%EB%93%9C.pdf)
@@ -113,7 +123,7 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 <br>
 
 
-## HomePage
+## Homepage
 - 링크 -> [바로가기](https://kwater-ailab.github.io/Kwater_ai_lab/)  
 - QR코드  
      <img src="https://user-images.githubusercontent.com/96035289/205552708-1049c5bf-148d-4055-9c95-a6359028156d.png" height="150px" width="150px">
