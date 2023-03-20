@@ -72,18 +72,21 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 <br>
 
 ## Seminars
-1. 2022년 신규 연구원 Landing Seminar (주경원) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/9e4b83addb5c5518420726ee189017316fd073d5/220728_%EC%84%B8%EB%AF%B8%EB%82%98_%EC%A3%BC%EA%B2%BD%EC%9B%90_%EB%B0%B0%ED%8F%AC.pdf)
+1. 2022년 신규 연구원 Landing Seminar (주경원) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/426362e6c522d2f3169e62a16337b9506ebffd63/1.%20220728_Landing%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf)
 
 
-2. AI연구센터 제 1회 AI 경진대회의 이해 (김성훈)  [발표자료](https://github.com/Kwater-AILab/Seminars/blob/7f7cb64d588c1d691615a8b5788d5ac25f95fd8e/AI%EC%97%B0%EA%B5%AC%EC%84%BC%ED%84%B0_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C(1%ED%9A%8C)%EC%9D%98%20%EC%9D%B4%ED%95%B4.pdf)
+2. AI연구센터 제 1회 AI 경진대회의 이해 (김성훈)  [발표자료](https://github.com/Kwater-AILab/Seminars/blob/fe4fbe0ed9d73991c1aefb3fc36d8c2d86b913e6/2.%20AI%EC%97%B0%EA%B5%AC%EC%84%BC%ED%84%B0_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C(1%ED%9A%8C)%EC%9D%98%20%EC%9D%B4%ED%95%B4.pdf)
 
 
-3. 데이터와 수치모델링 기반의 대체모델 적용 사례 (김성훈) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/7f7cb64d588c1d691615a8b5788d5ac25f95fd8e/AI%EC%97%B0%EA%B5%AC%EC%84%BC%ED%84%B0_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80%20%EC%88%98%EC%B9%98%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EB%8C%80%EC%B2%B4%EB%AA%A8%EB%8D%B8%20%EC%A0%81%EC%9A%A9%20%EC%82%AC%EB%A1%80.pdf)
+3. 데이터와 수치모델링 기반의 대체모델 적용 사례 (김성훈) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/e432eaaf8f6f3a34229348ce8f94c29bae777fd9/3.AI%EC%97%B0%EA%B5%AC%EC%84%BC%ED%84%B0_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80%20%EC%88%98%EC%B9%98%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EB%8C%80%EC%B2%B4%EB%AA%A8%EB%8D%B8%20%EC%A0%81%EC%9A%A9%20%EC%82%AC%EB%A1%80.pdf)
 
 
 
-4. 공공기관 ChatGPT 활용워크샵_ 지식공유 미니 세미나 (이소령) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/a6ff886738284970be79adda4849f403d18858df/%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80%20chatGPT%20%ED%99%9C%EC%9A%A9%EC%9B%8C%ED%81%AC%EC%83%B5_AAICON_%EC%A7%80%EC%8B%9D%EA%B3%B5%EC%9C%A0.pdf)
+4. 공공기관 ChatGPT 활용워크샵_ 지식공유 미니 세미나 (이소령) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/8496bb415844b47c78b52abebd32ab73c0f70b72/4.%20%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80%20chatGPT%20%ED%99%9C%EC%9A%A9%EC%9B%8C%ED%81%AC%EC%83%B5_AAICON_%EC%A7%80%EC%8B%9D%EA%B3%B5%EC%9C%A0.pdf)
 
+
+
+5. 닥터컨퍼런스 1부 NLP의 이해 (주경원) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/426362e6c522d2f3169e62a16337b9506ebffd63/5.%20220315_%EB%8B%A5%ED%84%B0%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4_NLP_Overview.pdf)
 
 <br>
 
