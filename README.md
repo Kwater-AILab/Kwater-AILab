@@ -106,19 +106,27 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 <br>
 
 ## Newsletter
-1. AI 뉴스레터 창간호  
+1. AI 뉴스레터 창간호
      - 뉴스형태 : [뉴스](https://github.com/Kwater-AILab/AI_NewsLetter/blob/2da634e8f8a24da0d6087d391df4177642e2b345/AI_Newsletter_%EC%B0%BD%EA%B0%84%ED%98%B8.pdf)
      - 카드형태 : [카드](https://github.com/Kwater-AILab/AI_NewsLetter/blob/2da634e8f8a24da0d6087d391df4177642e2b345/AI_Newsletter_%EC%B0%BD%EA%B0%84%ED%98%B8_%EC%B9%B4%EB%93%9C.pdf)
      - Hands-On Project Colab Link
           - Water_Quality : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p5cki_3KWsj1Ff52okNKWnb89Fgwt_pq?usp=sharing)
-          - Fake_News_Detection : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19U5YHHWn-lQaA_XtF8tTiPC7UnErATLP?usp=sharing)
+          - Fake_News_Detection : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19U5YHHWn-lQaA_XtF8tTiPC7UnErATLP?usp=sharing)  
+<br>
 
-2. AI 뉴스레터 2호   
+2. AI 뉴스레터 2호
      - 뉴스형태 : [뉴스](https://github.com/Kwater-AILab/AI_NewsLetter/blob/849dfcba8796fccfd1d2149960bcac9030715667/AI_Newsletter_2%ED%98%B8_2023_01.pdf)
      - 카드형태 : [카드](https://github.com/Kwater-AILab/AI_NewsLetter/blob/849dfcba8796fccfd1d2149960bcac9030715667/AI_Newsletter_2%ED%98%B8_2023_01_%EC%B9%B4%EB%93%9C.pdf)
      - Hands-On Project Colab Link
           - 수도공급량 분석(시계열)_Time Series Analysis for Water Demand   : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/147K1QZFHml97fm8_wVgrzpi12gNF3G38?usp=sharing)
-          - 뉴스 텍스트 분석(가짜뉴스 part2)_EDA for Fake and True News   : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r1SCGvYHpNEf7DavUoqAUsdapqhB2eZL?usp=sharing)
+          - 뉴스 텍스트 분석(가짜뉴스 part2)_EDA for Fake and True News   : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r1SCGvYHpNEf7DavUoqAUsdapqhB2eZL?usp=sharing)  
+<br>
+
+3. AI 뉴스레터 3호
+     - 뉴스형태 : [뉴스](https://github.com/Kwater-AILab/AI_NewsLetter/blob/e11ae6b3e399bc0a5d8c451c07f51d476131824a/AI_Newsletter_2023_03.pdf)
+     - 카드형태 : [카드](https://github.com/Kwater-AILab/AI_NewsLetter/blob/e11ae6b3e399bc0a5d8c451c07f51d476131824a/AI_Newsletter_2023_03_%EC%B9%B4%EB%93%9C.pdf)
+     - Hands-On Project Colab Link
+          - 자연어처리의 전처리 및 응용_NLP_Snippets   : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PpnFYMxFfIXlIgHvP7NMa9oSwiW-6HIn#scrollTo=95Y9I7Nwiz5e)
 
 <br>
 
