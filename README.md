@@ -98,6 +98,8 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 
 5. 닥터컨퍼런스 1부 NLP의 이해 (주경원) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/426362e6c522d2f3169e62a16337b9506ebffd63/5.%20220315_%EB%8B%A5%ED%84%B0%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4_NLP_Overview.pdf)
 
+
+6. 23년도 AI연구센터 내부세미나(4회) Notion 소개 및 활용 방향성 (이소령) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/426362e6c522d2f3169e62a16337b9506ebffd63/5.%20220315_%EB%8B%A5%ED%84%B0%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4_NLP_Overview.pdf)
 <br>
 
 ## Journal
