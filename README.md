@@ -4,9 +4,6 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 앞으로 물관리 전분야에 대한 보다 다양한 자료들을 공유할 예정입니다.  
 많은 관심부탁드립니다 :)  
 
-<!-- ![Kwater-AILab's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Kwater-AILab&show_icons=true&theme=vue) -->
-![Kwater-AILab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwater-AILab&show_icons=true&theme=vue)
-
 
 ## 목차
 - [Research](#research) 
@@ -129,6 +126,15 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
      - 카드형태 : [카드](https://github.com/Kwater-AILab/AI_NewsLetter/blob/e11ae6b3e399bc0a5d8c451c07f51d476131824a/AI_Newsletter_2023_03_%EC%B9%B4%EB%93%9C.pdf)
      - Hands-On Project Colab Link
           - 자연어처리의 전처리 및 응용_NLP_Snippets   : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PpnFYMxFfIXlIgHvP7NMa9oSwiW-6HIn#scrollTo=95Y9I7Nwiz5e)
+
+<br>
+
+3. AI 뉴스레터 4호
+     - 뉴스형태 : [뉴스](https://github.com/Kwater-AILab/AI_NewsLetter/blob/2eba65cca3c0d5a4bc348f1299f0fcae843d4d50/AI_Newsletter_2023_03.pdf)
+     - 카드형태 : [카드](https://github.com/Kwater-AILab/AI_NewsLetter/blob/2eba65cca3c0d5a4bc348f1299f0fcae843d4d50/AI_Newsletter_4%ED%98%B8_2023_06_%EC%B9%B4%EB%93%9C.pdf)
+     - Hands-On Project Colab Link
+          - 로우코딩(pycaret tutorial)   : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tsU2UtZLWfg6AoX6TJfWKrkxB7JJLS6w?usp=sharing)
+          - Youtube 요약기(Yutube Summarize)   : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12k1yn1y5dRNgEX4KYsc0f-5VcM1up6ng?usp=sharing)
 
 <br>
 
