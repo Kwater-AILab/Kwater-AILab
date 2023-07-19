@@ -100,6 +100,14 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 
 
 7. 23년도 AI연구센터 내부세미나(5회) 연구인을 위한 AI활용 이해와 실전 (김성훈) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/e619415f108916068660c51cc345b3e61ded39eb/7.%20230419_%EC%97%B0%EA%B5%AC%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20AI%ED%99%9C%EC%9A%A9%20%EC%9D%B4%ED%95%B4%EC%99%80%20%EC%8B%A4%EC%A0%84_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+
+
+8. 23년도 AI연구센터 내부세미나(6회) 용수수요예측(제2회 경진대회 코드리뷰) (주경원) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/c2f2de8c6f8452ae492046b583fa904d772f769a/8.%20230523_%EC%9A%A9%EC%88%98%EC%88%98%EC%9A%94%EC%98%88%EC%B8%A1.pdf)
+
+
+9. 23년도 AI연구센터 내부세미나(8회) 수도미터 동파예측 AI모델 고도화 (김세훈) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/c2f2de8c6f8452ae492046b583fa904d772f769a/9.%20230719_%EC%88%98%EB%8F%84%EB%AF%B8%ED%84%B0%20%EB%8F%99%ED%8C%8C%EC%98%88%EC%B8%A1%20AI%EB%AA%A8%EB%8D%B8%20%EA%B3%A0%EB%8F%84%ED%99%94%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf)
+
+
 <br>
 
 
