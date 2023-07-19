@@ -97,7 +97,15 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 
 
 6. 23년도 AI연구센터 내부세미나(4회) Notion 소개 및 활용 방향성 (이소령) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/426362e6c522d2f3169e62a16337b9506ebffd63/5.%20220315_%EB%8B%A5%ED%84%B0%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4_NLP_Overview.pdf)
+
+
+7. 23년도 AI연구센터 내부세미나(5회) 연구인을 위한 AI활용 이해와 실전 (김성훈) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/e619415f108916068660c51cc345b3e61ded39eb/7.%20230419_%EC%97%B0%EA%B5%AC%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20AI%ED%99%9C%EC%9A%A9%20%EC%9D%B4%ED%95%B4%EC%99%80%20%EC%8B%A4%EC%A0%84_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 <br>
+
+
+<br>
+
+
 
 ## Journal
 1. "물 분야 디지털 기술의 현재와 미래", 물정책경제지(2022.06) p.80~90 (김성훈) [발표자료](https://github.com/Kwater-AILab/Journal/blob/1783edc4e7db9bc13c5b5d4853ffccf5ed9689a1/%EC%A0%80%EB%84%90%20%EB%AC%BC%EC%A0%95%EC%B1%85%EA%B2%BD%EC%A0%9C%2037%ED%98%B8.pdf)
