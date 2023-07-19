@@ -75,6 +75,12 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 
 5. 수자원학회 발표 (이호현)  
      - "데이터기반 홍수 도달시간 및 수위예측 시물레이터 개발" (2022.05) [발표자료](https://github.com/Kwater-AILab/Conference/blob/f489066d0268e53c50e1a062b299513df914be8d/(4)%20220520_%EC%88%98%EC%9E%90%EC%9B%90%ED%95%99%ED%9A%8C.pdf)
+<br>
+
+6. 23년도 수자원학회 (AI연구센터)  
+     - "기획세션_AWS활용워크숍 발표자료모음" (2023.05)
+     - "수자원학회 AI응용연구분과 소개 및 2023년 기획세션 개최 결과보고", 취수원 수질예측 발표, 동파 포스터발표
+     - [폴더로 이동](https://github.com/Kwater-AILab/Conference/tree/581fd3f2f5db02fc4763745adb9720f143edd209/(5)%2023%EB%85%84%EB%8F%84%20%EC%88%98%EC%9E%90%EC%9B%90%ED%95%99%ED%9A%8C)
 
 <br>
 
