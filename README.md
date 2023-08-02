@@ -151,7 +151,7 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 
 <br>
 
-3. AI 뉴스레터 4호
+4. AI 뉴스레터 4호
      - 뉴스형태 : [뉴스](https://github.com/Kwater-AILab/AI_NewsLetter/blob/2eba65cca3c0d5a4bc348f1299f0fcae843d4d50/AI_Newsletter_2023_03.pdf)
      - 카드형태 : [카드](https://github.com/Kwater-AILab/AI_NewsLetter/blob/2eba65cca3c0d5a4bc348f1299f0fcae843d4d50/AI_Newsletter_4%ED%98%B8_2023_06_%EC%B9%B4%EB%93%9C.pdf)
      - Hands-On Project Colab Link
@@ -160,6 +160,14 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 
 <br>
 
+5. AI 뉴스레터 5호
+     - 뉴스형태 : [뉴스](https://github.com/Kwater-AILab/AI_NewsLetter/blob/6756bd75c7fbcc07a12c11239d6572c34b599f1a/AI_Newsletter_%EC%A0%9C5%ED%98%B8_2023_07_%EC%B5%9C%EC%A2%85.pdf)
+     - 카드형태 : [카드](https://github.com/Kwater-AILab/AI_NewsLetter/blob/6756bd75c7fbcc07a12c11239d6572c34b599f1a/AI_Newsletter_%EC%A0%9C5%ED%98%B8_2023_07__%EC%B9%B4%EB%93%9C.pdf)
+     - Hands-On Project Colab Link
+          - 나만의 ChatGPT 만들기   : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1253BKQp2RZXRVPjKLGT344s6VHF6X8UO#scrollTo=uEq_-SAn7E0-)
+          - PandasAI   : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dOuVPHzPHdeyc9sSZCuSBNStuBWoi0r8#scrollTo=MmosZgCk5d4y)
+
+<br>
 
 ## Homepage
 - 링크 -> [바로가기](https://kwater-ailab.github.io/Kwater_ai_lab/)  
