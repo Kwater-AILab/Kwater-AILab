@@ -114,6 +114,9 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 9. 23년도 AI연구센터 내부세미나(8회) 수도미터 동파예측 AI모델 고도화 (김세훈) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/c2f2de8c6f8452ae492046b583fa904d772f769a/9.%20230719_%EC%88%98%EB%8F%84%EB%AF%B8%ED%84%B0%20%EB%8F%99%ED%8C%8C%EC%98%88%EC%B8%A1%20AI%EB%AA%A8%EB%8D%B8%20%EA%B3%A0%EB%8F%84%ED%99%94%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf)
 
 
+10. 23년도 AI연구센터 내부세미나(9회) 디지털트윈과 AR,VR 기술도입 (정지영) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/b1995d7b01e94f958314a0c2e70fbf0705c28663/10.%20230830_%EB%94%94%EC%A7%80%ED%84%B8%ED%8A%B8%EC%9C%88%EA%B3%BC%20AR%20VR%20%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85.pdf)
+
+
 <br>
 
 
