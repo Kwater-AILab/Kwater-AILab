@@ -30,7 +30,7 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 4. 댐안전관리 플랫폼 개발을 위한 인공지능 알고리즘 선정평가 연구 (In progress)
      
 5. 정수장 유입 수질(망간 등) 예측 알고리즘 개발  (https://github.com/Kwater-AILab/Manganese-Quality-Predict, In progress) 
-     - Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gapple95/Taewha-Water-Level-Predict.git/HEAD) 
+     - Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gapple95/Manganese-Quality-Predict/HEAD)
 
 6. 막여과공정 AI운용모델 개발 (In progress)
 
