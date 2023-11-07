@@ -31,7 +31,7 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
      
 5. 정수장 유입 수질(망간 등) 예측 알고리즘 개발  (https://github.com/Kwater-AILab/Manganese-Quality-Predict, In progress) 
      - Launch Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gapple95/Manganese-Quality-Predict/HEAD)
-     - Launch Streamlit [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](http://mn.kwaterai.com:8501/)
+     - Launch Streamlit [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([http://mn.kwaterai.com:8501/](https://manganeseapp-twf7k2cyrbwm2zozzl5txr.streamlit.app/))
 
 6. 막여과공정 AI운용모델 개발 (In progress)
 
