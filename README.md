@@ -174,6 +174,21 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 
 <br>
 
+
+6. AI 뉴스레터 6호
+     - 뉴스형태 : [뉴스](https://github.com/Kwater-AILab/AI_NewsLetter/blob/30989c79021eb3d8b7c57bc505f6690943a0fe39/AI_Newsletter_6%ED%98%B8_2310.pdf)
+     - 카드형태 : [카드](https://github.com/Kwater-AILab/AI_NewsLetter/blob/30989c79021eb3d8b7c57bc505f6690943a0fe39/AI_Newsletter_6%ED%98%B8_2310_%EC%B9%B4%EB%93%9C.pdf)
+     
+<br>
+
+7. AI 뉴스레터 7호
+     - 뉴스형태 : [뉴스](https://github.com/Kwater-AILab/AI_NewsLetter/blob/30989c79021eb3d8b7c57bc505f6690943a0fe39/AI_Newsletter_7%ED%98%B8_2402.pdf)
+     - 카드형태 : [카드](https://github.com/Kwater-AILab/AI_NewsLetter/blob/30989c79021eb3d8b7c57bc505f6690943a0fe39/AI_Newsletter_7%ED%98%B8_2402_%EC%B9%B4%EB%93%9C.pdf)
+ 
+<br>
+
+
+
 ## Homepage
 - 링크 -> [바로가기](https://kwater-ailab.github.io/Kwater_ai_lab/)  
 - QR코드  
