@@ -187,6 +187,17 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
  
 <br>
 
+8. AI 뉴스레터 8호
+     - Type-A(뉴스, Papaer Review) : [Type_A](https://github.com/Kwater-AILab/AI_NewsLetter/blob/c2c96d3cd87a7afc069bf3b5e97a08e7f33ffbfa/AI_Newsletter_8%ED%98%B8_A_2403.pdf)
+     - Type-B(Tips, Hands-On) : [Type_B](https://github.com/Kwater-AILab/AI_NewsLetter/blob/c2c96d3cd87a7afc069bf3b5e97a08e7f33ffbfa/AI_Newsletter_8%ED%98%B8_B_2403.pdf)
+     - Hands-On Project Colab Link
+          - SQL vs Pandas   : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DjF1ZF85q-xzUPhtzE9DcoQkD99PvvjJ)
+
+       
+ 
+<br>
+
+
 
 
 ## Homepage
