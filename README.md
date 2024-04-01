@@ -119,6 +119,9 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 10. 23년도 AI연구센터 내부세미나(9회) 디지털트윈과 AR,VR 기술도입 (정지영) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/b1995d7b01e94f958314a0c2e70fbf0705c28663/10.%20230830_%EB%94%94%EC%A7%80%ED%84%B8%ED%8A%B8%EC%9C%88%EA%B3%BC%20AR%20VR%20%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85.pdf)
 
 
+11. 24년도 AI연구센터 내부세미나(2회) 수치모형과AI대체모델 (김성훈) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/e277206e92a47582b825f43a57bfe9e11d224619/11.%20240328_%EC%88%98%EC%B9%98%EB%AA%A8%ED%98%95%EA%B3%BCAI%EB%8C%80%EC%B2%B4%EB%AA%A8%EB%8D%B8.pdf)
+
+
 <br>
 
 
