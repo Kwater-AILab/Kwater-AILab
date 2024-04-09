@@ -119,7 +119,13 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 10. 23년도 AI연구센터 내부세미나(9회) 디지털트윈과 AR,VR 기술도입 (정지영) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/b1995d7b01e94f958314a0c2e70fbf0705c28663/10.%20230830_%EB%94%94%EC%A7%80%ED%84%B8%ED%8A%B8%EC%9C%88%EA%B3%BC%20AR%20VR%20%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85.pdf)
 
 
-11. 24년도 AI연구센터 내부세미나(2회) 수치모형과AI대체모델 (김성훈) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/e277206e92a47582b825f43a57bfe9e11d224619/11.%20240328_%EC%88%98%EC%B9%98%EB%AA%A8%ED%98%95%EA%B3%BCAI%EB%8C%80%EC%B2%B4%EB%AA%A8%EB%8D%B8.pdf)
+11. 24년도 AI연구센터 기술공유 세미나(2회) 수치모형과AI대체모델 (김성훈) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/e277206e92a47582b825f43a57bfe9e11d224619/11.%20240328_%EC%88%98%EC%B9%98%EB%AA%A8%ED%98%95%EA%B3%BCAI%EB%8C%80%EC%B2%B4%EB%AA%A8%EB%8D%B8.pdf)
+
+
+12. 24년도 인공지능의 소개와 활용(학부생용) 발표자료 (최영돈) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/edc72cde1d302ba74db3a50d9459614bee5e9e9c/12.%20240405_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%98%20%EC%86%8C%EA%B0%9C%EC%99%80%20%ED%99%9C%EC%9A%A9(%ED%95%99%EB%B6%80%EC%83%9D%EC%9A%A9).pdf)
+
+
+13. 24년도 AI연구센터 기술공유 세미나(3회) AI녹조 과제 진행상황 발표자료 (이충성) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/edc72cde1d302ba74db3a50d9459614bee5e9e9c/13.%20240409_3%EC%B0%A8%20%EA%B8%B0%EC%88%A0%EA%B3%B5%EC%9C%A0%EC%84%B8%EB%AF%B8%EB%82%98_AI%EB%85%B9%EC%A1%B0%20%EA%B3%BC%EC%A0%9C%20%EC%A7%84%ED%96%89%EC%83%81%ED%99%A9.pptx)
 
 
 <br>
