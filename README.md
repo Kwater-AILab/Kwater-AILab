@@ -202,7 +202,11 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
      - Hands-On Project Colab Link
           - SQL vs Pandas   : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DjF1ZF85q-xzUPhtzE9DcoQkD99PvvjJ)
 
-       
+<br>
+
+8. AI 뉴스레터 9호
+     - Type-A(뉴스, Papaer Review) : [Type_A](https://github.com/Kwater-AILab/AI_NewsLetter/blob/b53508db551d438055d055196e08a13ccf544f2b/AI_Newsletter_9%ED%98%B8_A_2405.pdf)
+     - Type-B(Tips, Hands-On) : [Type_B](https://github.com/Kwater-AILab/AI_NewsLetter/blob/b53508db551d438055d055196e08a13ccf544f2b/AI_Newsletter_9%ED%98%B8_B_2405.pdf)
  
 <br>
 
