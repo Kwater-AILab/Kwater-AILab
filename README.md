@@ -86,6 +86,11 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 
 <br>
 
+7. 24년도 상하수도 학회 (정지영)   
+     - 데이터분석기반 THMs 및 수도동파 분석(2024.07)  [발표자료](https://github.com/Kwater-AILab/Conference/blob/f24d3bd18da8e71f62237e365893cb4bcfcb122d/(6)%20240716_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B8%B0%EB%B0%98%20THMs%20%EB%B0%8F%20%EC%88%98%EB%8F%84%EB%8F%99%ED%8C%8C%20%EB%B6%84%EC%84%9D.pdf)
+
+<br>
+
 ## Seminars
 1. 2022년 신규 연구원 Landing Seminar (주경원) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/426362e6c522d2f3169e62a16337b9506ebffd63/1.%20220728_Landing%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf)
 
@@ -209,8 +214,11 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
      - Type-B(Tips, Hands-On) : [Type_B](https://github.com/Kwater-AILab/AI_NewsLetter/blob/b53508db551d438055d055196e08a13ccf544f2b/AI_Newsletter_9%ED%98%B8_B_2405.pdf)
  
 <br>
-
-
+10. AI 뉴스레터 10호
+     - Type-A(뉴스, Papaer Review) : [Type_A](https://github.com/Kwater-AILab/AI_NewsLetter/blob/4f9b3522662fd4a089a493e3ddf59e2cf0e66c25/AI_Newsletter_10%ED%98%B8_A_2407.pdf)   
+     - Type-B(Tips, Hands-On) : [Type_B](https://github.com/Kwater-AILab/AI_NewsLetter/blob/4f9b3522662fd4a089a493e3ddf59e2cf0e66c25/AI_Newsletter_10%ED%98%B8_B_2407.pdf)   
+     - Hands-On Project Colab Link
+          - 이미지 감정분석하기   : [![Colab](https://colab.research.google.com/drive/1xdHCwc1Ug7hOvVr-UZ2IZ0NfzGuoK92l?usp=sharing)   
 
 
 ## Homepage
