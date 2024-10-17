@@ -227,7 +227,7 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
      - Type-A(뉴스, Papaer Review) : [Type_A](https://github.com/Kwater-AILab/AI_NewsLetter/blob/0c03d43de489f4e1e1b79d3ddc38f9c5d9e285e5/241017_AI_Newsletter_11A%ED%98%B8_24.09.pdf)
      - Type-B(Tips, Hands-On) : [Type_B](https://github.com/Kwater-AILab/AI_NewsLetter/blob/0c03d43de489f4e1e1b79d3ddc38f9c5d9e285e5/241017_AI_Newsletter_11B%ED%98%B8_24.09.pdf)
      - Hands-On Project Colab Link
-          - 통계적 방법에 의한 이상치 탐색 : [![Open In Colab](https://colab.research.google.com/drive/1pFWUQIOuFNg-F2SZ-wVfgRJsVkXQ_kX8)
+          - 통계적 방법에 의한 이상치 탐색  : [![Open In Colab](https://colab.research.google.com/drive/1pFWUQIOuFNg-F2SZ-wVfgRJsVkXQ_kX8)
 
 <br>  
 
