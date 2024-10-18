@@ -133,6 +133,18 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 13. 24년도 AI연구센터 기술공유 세미나(3회) AI녹조 과제 진행상황 발표자료 (이충성) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/edc72cde1d302ba74db3a50d9459614bee5e9e9c/13.%20240409_3%EC%B0%A8%20%EA%B8%B0%EC%88%A0%EA%B3%B5%EC%9C%A0%EC%84%B8%EB%AF%B8%EB%82%98_AI%EB%85%B9%EC%A1%B0%20%EA%B3%BC%EC%A0%9C%20%EC%A7%84%ED%96%89%EC%83%81%ED%99%A9.pptx)
 
 
+14. 240502_360카메라  3D Gaussian Splatting을 이용한 시설물 3D구현(이동근) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/da6fa480e8862ca5a8c211226a56a01291b4a33c/14.%20240502_360%EC%B9%B4%EB%A9%94%EB%9D%BC%20%203D%20Gaussian%20Splatting%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%8B%9C%EC%84%A4%EB%AC%BC%203D%EA%B5%AC%ED%98%84(%EC%9D%B4%EB%8F%99%EA%B7%BC).pdf)
+
+
+15. 240716_데이터분석 기반 THMs 및 동파 수도 분석 (정지영) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/da6fa480e8862ca5a8c211226a56a01291b4a33c/15.%20240716_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%20%EA%B8%B0%EB%B0%98%20THMs%20%EB%B0%8F%20%EB%8F%99%ED%8C%8C%20%EC%88%98%EB%8F%84%20%EB%B6%84%EC%84%9D%20(%EC%A0%95%EC%A7%80%EC%98%81).pdf)
+
+
+16. 240826_Landing Seminar(김학준) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/da6fa480e8862ca5a8c211226a56a01291b4a33c/16.%20240826_Landing%20Seminar(%EA%B9%80%ED%95%99%EC%A4%80).pdf)
+
+
+17. 241007_범위 민감도를 도입한 도시 복잡시스템의 빅데이터 분석 방법론 연구(류제완) [발표자료](https://github.com/Kwater-AILab/Seminars/blob/da6fa480e8862ca5a8c211226a56a01291b4a33c/17.%20241007_%EB%B2%94%EC%9C%84%20%EB%AF%BC%EA%B0%90%EB%8F%84%EB%A5%BC%20%EB%8F%84%EC%9E%85%ED%95%9C%20%EB%8F%84%EC%8B%9C%20%EB%B3%B5%EC%9E%A1%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EB%B0%A9%EB%B2%95%EB%A1%A0%20%EC%97%B0%EA%B5%AC(%EB%A5%98%EC%A0%9C%EC%99%84).pdf)
+
+
 <br>
 
 
