@@ -247,7 +247,7 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
      - Type-A(뉴스, Papaer Review) : [Type_A](https://github.com/Kwater-AILab/AI_NewsLetter/blob/60dd0c91032499d150e757556ccc1f41f35ec746/AI_Newsletter_12%ED%98%B8_A_2411.pdf)
      - Type-B(Tips, Hands-On) : [Type_B](https://github.com/Kwater-AILab/AI_NewsLetter/blob/60dd0c91032499d150e757556ccc1f41f35ec746/AI_Newsletter_12%ED%98%B8_B_2411.pdf)
      - Hands-On Project Colab Link
-          - 설명가능한 인공지능, XAI 적용해보기  : [![Open In Colab](https://colab.research.google.com/drive/156meftBCwP9TjReRTRYSMUC_hVCUeYY1#scrollTo=vyknmPpMHoGU)
+          - 설명가능한 인공지능, XAI 적용해보기  : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/156meftBCwP9TjReRTRYSMUC_hVCUeYY1#scrollTo=vyknmPpMHoGU)
 
 <br>  
 
