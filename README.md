@@ -260,6 +260,15 @@ K-water AILab에서 개발한 다양한 AI Source Code를 공유하는 곳입니
 <br>  
 
 
+13. AI 뉴스레터 14호
+     - Type-A(뉴스, Papaer Review) : [Type_A](https://github.com/Kwater-AILab/AI_NewsLetter/blob/b1e5c77ae4776bce9064757f0327e66de3d2ff32/AI_Newsletter_14A%ED%98%B8(2025_03).pdf)
+     - Type-B(Tips, Hands-On) : [Type_B](https://github.com/Kwater-AILab/AI_NewsLetter/blob/b1e5c77ae4776bce9064757f0327e66de3d2ff32/AI_Newsletter_14B%ED%98%B8(2025_03).pdf)
+     - Hands-On Project Colab Link
+          - 온라인 쇼핑의 유사 상품 추천, 어떻게 이루어질까?  : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yCoJ9F3CagaRyjm2i2JgdK7I5jz_uiuP?usp=sharing)
+<br>  
+
+
+
 ## Homepage
 - 링크 -> [바로가기](https://kwater-ailab.github.io/Kwater_ai_lab/)  
 - QR코드  
